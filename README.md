@@ -2,8 +2,8 @@
 Singly Linked List Project
 
 # Features 
-- ##append() adds a new node to the end of the list
-- ##prepend() adds a new node to the start of the list
+- ## append() adds a new node to the end of the list
+- ## prepend() adds a new node to the start of the list
 - ##size() returns the total number of nodes in the list
 - ##at(index) returns the node at the given index
 - ##pop() removes the last node from the list
